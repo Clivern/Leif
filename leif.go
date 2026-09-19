@@ -1,4 +1,4 @@
-// Copyright 2026 Leif. All rights reserved.
+// Copyright 2026 Clivern. All rights reserved.
 // License can be found in the LICENSE file.
 
 package main
