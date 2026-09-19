@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "leif": {
+      "command": "go",
+      "args": ["run", "${workspaceFolder}", "serve"],
+      "env": {
+        "DATABASE_URL": "postgres://user@127.0.0.1:5432/dbname?sslmode=disable"
+      }
+    }
+  }
+}

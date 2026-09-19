@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+leif
+
+# Test binary
+*.test
+
+# Coverage
+*.out
+coverage.html
+
+# Dist
+dist
